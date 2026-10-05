@@ -1,0 +1,172 @@
+[
+  {
+    "source": "black-haired young fellow",
+    "relation": "cruelty",
+    "target": "fair-haired young fellow",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "rude enjoyment of the discomforts of others which the common classes so often show",
+    "chunk_id": 0
+  },
+  {
+    "source": "doctor",
+    "relation": "duty",
+    "target": "Swiss patient",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "my doctor gave me money—and he had very little—to pay my journey back, besides having kept me at his own expense",
+    "chunk_id": 1
+  },
+  {
+    "source": "red‑nosed passenger",
+    "relation": "injustice",
+    "target": "poverty",
+    "source_type": "person",
+    "target_type": "concept",
+    "interpretation_level": "direct",
+    "evidence": "though of course poverty is no crime—we must remember that!",
+    "chunk_id": 1
+  },
+  {
+    "source": "Rogojin",
+    "relation": "disrespect",
+    "target": "blotchy‑faced passenger",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "he had not once taken any notice of the blotchy‑faced passenger",
+    "chunk_id": 1
+  },
+  {
+    "source": "Brother Senka",
+    "relation": "betrayal",
+    "target": "Rogojin",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "my brother cut off the gold tassels from my father’s coffin, at night ‘because they’re worth a lot of money!’",
+    "chunk_id": 2
+  },
+  {
+    "source": "Brother Senka",
+    "relation": "disrespect",
+    "target": "father",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "my brother cut off the gold tassels from my father’s coffin, at night ‘because they’re worth a lot of money!’",
+    "chunk_id": 2
+  },
+  {
+    "source": "Rogojin",
+    "relation": "guilt",
+    "target": "anger his father",
+    "source_type": "person",
+    "target_type": "action",
+    "interpretation_level": "direct",
+    "evidence": "I know that well enough but I certainly did rile my father about Nastasia Philipovna that’s very sure, and that was my own doing.",
+    "chunk_id": 2
+  },
+  {
+    "source": "Rogojin",
+    "relation": "duty",
+    "target": "honor father’s memory",
+    "source_type": "person",
+    "target_type": "value",
+    "interpretation_level": "direct",
+    "evidence": "All honour to my respected father’s memory",
+    "chunk_id": 2
+  },
+  {
+    "source": "Rogojin",
+    "relation": "shame",
+    "target": "being treated like a dog",
+    "source_type": "person",
+    "target_type": "concept",
+    "interpretation_level": "direct",
+    "evidence": "They’ve treated me like a dog!",
+    "chunk_id": 2
+  },
+  {
+    "source": "Rogojin",
+    "relation": "justice",
+    "target": "Brother Senka",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "interpretive",
+    "evidence": "Why, I can get him sent off to Siberia for that alone, if I like; it’s sacrilege.",
+    "chunk_id": 2
+  },
+  {
+    "source": "Rogojin",
+    "relation": "deception",
+    "target": "English shop",
+    "source_type": "person",
+    "target_type": "institution",
+    "interpretation_level": "direct",
+    "evidence": "I gave my name, and they trusted me.",
+    "chunk_id": 3
+  },
+  {
+    "source": "Rogojin",
+    "relation": "duty",
+    "target": "father",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "contextual",
+    "evidence": "Well, I sold the bonds, but I didn’t take the seven thousand roubles to the office; I went straight to the English shop...",
+    "chunk_id": 3
+  },
+  {
+    "source": "Zaleshoff",
+    "relation": "betrayal",
+    "target": "Rogojin",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "my father learned the whole story at once, and Zaleshoff blabbed it all over the town besides.",
+    "chunk_id": 3
+  },
+  {
+    "source": "Rogojin",
+    "relation": "shame",
+    "target": "theft",
+    "source_type": "person",
+    "target_type": "action",
+    "interpretation_level": "direct",
+    "evidence": "Why didn’t I die there on the spot? ... I went home feeling like one of the damned.",
+    "chunk_id": 3
+  },
+  {
+    "source": "father",
+    "relation": "oppression",
+    "target": "Rogojin",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "contextual",
+    "evidence": "and his father would have given a man a ticket to the other world for ten roubles any day",
+    "chunk_id": 3
+  },
+  {
+    "source": "Rogojin",
+    "relation": "self_interest",
+    "target": "earrings",
+    "source_type": "person",
+    "target_type": "concept",
+    "interpretation_level": "contextual",
+    "evidence": "I went straight to the English shop and chose a pair of earrings, with a diamond the size of a nut in each. They cost four hundred roubles more than I had",
+    "chunk_id": 3
+  },
+  {
+    "source": "Zaleshoff",
+    "relation": "betrayal",
+    "target": "Rogojin",
+    "source_type": "person",
+    "target_type": "person",
+    "interpretation_level": "direct",
+    "evidence": "the beast Zaleshoff got all the credit of it!",
+    "chunk_id": 3
+  }
+]
